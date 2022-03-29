@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AudioVideoApp4</string>
+    <string name="api_key">AIzaSyAhDCIb_TbTn9xEnxSfIcgTldVquz4Fc-4</string>
+    <string name="to_audio">Audio Player</string>
+    <string name="to_video">Video Player</string>
+</resources>
